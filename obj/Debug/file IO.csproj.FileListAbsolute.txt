@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\file IO\file IO\bin\Debug\file IO.exe.config
+C:\Users\lenovo\source\repos\file IO\file IO\bin\Debug\file IO.exe
+C:\Users\lenovo\source\repos\file IO\file IO\bin\Debug\file IO.pdb
+C:\Users\lenovo\source\repos\file IO\file IO\obj\Debug\file IO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\file IO\file IO\obj\Debug\file IO.exe
+C:\Users\lenovo\source\repos\file IO\file IO\obj\Debug\file IO.pdb
+C:\Users\lenovo\source\repos\file IO\file IO\obj\Debug\file IO.csproj.AssemblyReference.cache
